@@ -5,7 +5,7 @@ html {
 .social-bar {
 	position: fixed;
 	right: 0;
-	top: 60%;
+	top: 35%;
 	font-size: 1.5rem;
 	display: flex;
 	flex-direction: column;
@@ -29,8 +29,8 @@ html {
 	background: #339DC5;
 }
 
-.icon-tiktok {
-	background: #000000;
+.icon-youtube {
+	background: #E83028;
 }
 
 .icon-instagram {
@@ -50,10 +50,3 @@ html {
 	border-radius: 1rem 0 0 1rem;
 	box-shadow: 0 0 .5rem rgba(0, 0, 0, 0.42);
 }
-pre, p {
-    font-size: 1.5em;
-    color: #FE7F88;
-    background-color: transparent;
-}
-
-
