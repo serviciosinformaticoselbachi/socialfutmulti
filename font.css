@@ -37,3 +37,13 @@
   content: "\ea9d";
 }
 
+<<<<<<< HEAD
+=======
+
+body, html {
+    height: 50%;
+    background-repeat: no-repeat;
+    background: url(https://montevideoonline.com.uy/wp-content/uploads/2021/10/cropped-nuevo.png) no-repeat center center fixed;
+     background-size: 100% 100%;
+}
+>>>>>>> ea8f2e0f6f9cb78ea20482bc5d8df9a130443562
