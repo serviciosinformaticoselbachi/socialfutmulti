@@ -5,6 +5,7 @@
 }
 
 body {
+  background-repeat: no-repeat;
   background-image: url(https://montevideoonline.com.uy/wp-content/uploads/2021/10/cropped-nuevo.png);
   min-height: 100vh;
   display: flex;
