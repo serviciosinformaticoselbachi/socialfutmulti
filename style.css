@@ -5,7 +5,7 @@
 }
 
 body {
-  background-image: radial-gradient( circle 767px at 10.2% 22.1%,  rgba(11,218,81,1) 0%, rgba(0,191,255,1) 90% );
+  background-image: rurl(https://montevideoonline.com.uy/wp-content/uploads/2021/10/cropped-nuevo.png) no-repeat center center fixed;
   min-height: 100vh;
   display: flex;
   justify-content: center;
